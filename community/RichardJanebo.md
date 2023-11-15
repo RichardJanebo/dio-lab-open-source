@@ -1,0 +1,8 @@
+## 🚀 Sobre mim
+ Opa tudo bom meu nome é Richard curso 👩‍💻 engenharia de software, desde muito cedo já tinha uma aptidão legal para a tecnologia, sempre fuçando 🤔 e procurando resolver os problemas e entender como as coisas funcionam, desmontava ⚙ e montava computadores, criava pequenos softwares de automação para dia dia, pregava algumas pegadinhas 😆 também afinal de contas ninguém é perfeito não é mesmo rsrs, hoje após alguns anos estou me dedicando ao Front end, com sede de conhecimento, já tendo uma boa noção em ‘designer’ por conta do photoshop, corel draw... Sinto que estou indo bem, mas vou praticar melhorar e melhorar mais e mais sempre assim no dia da publicação desse post eu não trabalho na area ainda, acordo todos so dias as 5h da manhã e após as 19 da noite para estudar adiquiri muito dessa diciplina depois que tive a chance de ser soldado de comunicações.
+
+ ## Tecnologias que estou estudando 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) 
+
+## Meu linkedin
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/richard-janebo-aaa242242/)
